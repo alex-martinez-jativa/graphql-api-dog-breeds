@@ -1,0 +1,26 @@
+{
+  "name": "api-breeds-dog-gql",
+  "version": "1.0.0",
+  "description": "graqphql api about dog breeds",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "keywords": [
+    "API",
+    "nodejs",
+    "dogs",
+    "breeds",
+    "graphql"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "data": "file:data",
+    "dotenv": "^8.2.0",
+    "errors": "file:errors",
+    "graphql-yoga": "^1.18.3",
+    "utils": "file:utils"
+  }
+}
