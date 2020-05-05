@@ -8,7 +8,7 @@
 <p>https://graphql-api-dog-breeds.herokuapp.com/graphql</p>
 
 ## Query example
-```json
+```js
 query{
   retrieveDogById(id:"5eaff43af96b5978ca726dd3"){
     id
