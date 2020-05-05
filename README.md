@@ -5,7 +5,7 @@
 <a href="https://api-dog-breeds.herokuapp.com">https://graphql-api-dog-breeds.herokuapp.com/</a>
 
 ## Endpoint
-<p>https://graphql-api-dog-breeds.herokuapp.com/graphql</p>
+<p>/graphql</p>
 
 ## Query example
 ```js
